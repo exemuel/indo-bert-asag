@@ -1,0 +1,311 @@
+Siswa,Jawaban,Manual 1,Manual 2,Manual 3,Rata Manual
+siswa_1 ,"Volatile memory adalah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_2 ,"merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_3 ,memori penyimapan ,0.0,5.0,10.0,5.0
+siswa_4 ,"Merupakan memory yang datanya dapat ditulis serta dihapus, tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_6 ,memori jangka pendek ,0.0,10.0,10.0,6.666666666666667
+siswa_7 ,"Merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power kondisi off serta membutuhkan satu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_8 ,volatile memory adalah memory yang berisi data dan dapat ditulis maupun dihapus kembali ,75.0,60.0,75.0,70.0
+siswa_9 ,"Volatile memory adalah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_10 ,"Volatile, bertentangan dengan memori non-volatile , adalah memori komputer yang membutuhkan kekuatan untuk mempertahankan informasi yang tersimpan; mempertahankan isinya sementara bertenaga pada tetapi ketika listrik terganggu data yang disimpan hilang sangat cepat atau segera. Volatile memiliki beberapa kegunaan, misalnya sebagai memori utama . Selain biasanya menjadi lebih cepat dari bentuk penyimpanan massal seperti hard disk drive yang , volatilitas dapat melindungi informasi sensitif seperti itu menjadi tidak tersedia pada kekuasaan-down. Sebagian besar tujuan umum random-access memory (RAM) adalah stabil. ",40.0,60.0,50.0,50.0
+siswa_11 ,"merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_12 ,"Volatile memory adalah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory. contohnya RAM ",77.0,85.0,90.0,84.0
+siswa_16 ,memory yang datanya dapat ditulis dan dihapus ,40.0,45.0,50.0,45.0
+siswa_17 ,"Memori yang datanya sudah diisi oleh pembuat chip memori, artinya user meminta kepada pabrik pembuat memori agar diisi sesuai dengan keinginannya. ",15.0,25.0,25.0,21.666666666666668
+siswa_18 ,"Volatile memory merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_19 ,"memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power dalam kondisi off, serta membutuhkan satu daya dalam mempertahankan memory ",80.0,90.0,90.0,86.66666666666667
+siswa_20 ,"merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory ",80.0,90.0,90.0,86.66666666666667
+siswa_22 ,"Volatile merupakan memory yang datanya dapat ditulis serta dihapus, tetapi akan hilang jika tidak ada aliran listrik (kondisi mati/off) dan membutuhkan daya untuk mempertahankan memory. ",88.0,100.0,90.0,92.66666666666667
+siswa_24 ,"merupakan memory yang datanya dapat ditulis dan dihapus, tetapi dapat hilang saat kondisi power off ",70.0,75.0,75.0,73.33333333333333
+siswa_25 ,"Volatile memory merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_26 ,memory jangka pendek ,8.0,15.0,10.0,11.0
+siswa_27 ,Pengertian topologi jaringan komputer adalah suatu cara atau konsep untuk menghubungkan beberapa atau banyak komputer sekaligus menjadi suatu jaringan yang saling terkoneksi. ,0.0,0.0,0.0,1.0
+siswa_33 ,Merupakan memori yang akan hilang datanya keika arus listrik dipadamkan ,30.0,35.0,25.0,30.0
+siswa_34 ,"adalah data yang datanya dapat ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya ",77.0,85.0,90.0,84.0
+siswa_35 ,"volatile memory adalah penyimpanan memory sementara, yang mudah hilang ",50.0,60.0,50.0,53.333333333333336
+siswa_36 ,memory yang datanya bisa di tulis dan di hapus ,40.0,35.0,50.0,41.666666666666664
+siswa_37 ,volatile memory adalah memory yang datanya tidak dapat dihapus / ditulis kembali sehingga hanya bisa dibaca saja. ,45.0,55.0,50.0,50.0
+siswa_38 ,Memory yang dapat dihapus. ,25.0,30.0,25.0,26.666666666666668
+siswa_39 ,volatile ialah memori sementara yang hilang apabila listrik mati atau komputer dimatikan. contohnya RAM ,40.0,45.0,50.0,45.0
+siswa_40 ,memory datanya yang dapat dihapus dan ditulis ,40.0,45.0,50.0,45.0
+siswa_41 ,"memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_42 ,- ,0.0,0.0,0.0,1.0
+siswa_43 ,memory yang dapat bertambah ketika di butuhkan ,10.0,5.0,10.0,8.333333333333334
+siswa_44 ,"Memory volatile adalah memori yang datanya dapat ditulis atau dihapus, dan data akan hilang ketika tidak mendapat power / daya. Memory jenis ini hanya untuk penyimpanan data sementara saja, bukan untuk jangka waktu yang lama. Contoh dari memory volatile adalah RAM (Random Access Memory) digunakan sebagai memori utama untuk menyimpan program-program atau data-data yang sedang digunakan atau diperlukan oleh CPU saat dibutuhkan saja (sementara). ",65.0,80.0,75.0,73.33333333333333
+siswa_45 ,"Volatile memory merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. Contohnya adalah RAM ",77.0,88.0,90.0,85.0
+siswa_46 ,Volatile = sementara Memory = Ingatan jadi Ingatan Sementara ,20.0,30.0,25.0,25.0
+siswa_47 ,"Volatile memory merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. ",88.0,95.0,90.0,91.0
+siswa_49 ,"merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_50 ,"Volatile memory adalah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory. ",88.0,86.0,90.0,88.0
+siswa_51 ,"volatile memory merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_52 ,memory tambahan ,5.0,5.0,10.0,6.666666666666667
+siswa_53 ,valatile memory tempat penyimpana data volatile ,30.0,30.0,25.0,28.333333333333332
+siswa_54 ,Volatile memory adalah tempat penyimpanan data volatile. ,27.0,30.0,25.0,27.333333333333332
+siswa_55 ,tempat untuk menyimpan data volatile ,25.0,30.0,25.0,26.666666666666668
+siswa_56 ,"Volatile memory, contrary to non-volatile memory, is computer memory that requires power to maintain the stored information ",10.0,10.0,10.0,10.0
+siswa_57 ,merupakan memory yang datanya dapat ditulis serta dihapus tetapi akan hilang ,40.0,50.0,50.0,46.666666666666664
+siswa_58 ,"Volatile memory adalah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory ",80.0,90.0,90.0,86.66666666666667
+siswa_59 ,memory yang digunakan untuk penyimpanan sementara ,25.0,35.0,25.0,28.333333333333332
+siswa_60 ,"-Volatile memory adalah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya Dalam mempertahankan memory.",88.0,86.0,90.0,88.0
+siswa_61 ,"merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_62 ,"merupakan memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. ",80.0,90.0,90.0,86.66666666666667
+siswa_63 ,memory yang digunakan untuk menyimpan data ,25.0,20.0,25.0,23.333333333333332
+siswa_64 ,volatile memory adalah memory sementara untuk menjalankan komputer. hal ini untuk menyeimbangkan antara RAM dan processor ,45.0,40.0,50.0,45.0
+siswa_65,"Volatile memory ialah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_66,"Volatile memory ialah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_67,"Volatile memory adalah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_68,"membentuk memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_69,"membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_70,"membentuk memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_71,"membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_72,"merupakan memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_73,"merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_74,"merupakan memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_75,album penyimapan,0.0,5.0,10.0,5.0
+siswa_76,"Merupakan memory nan datanya angsal ditulis serta dihapus, tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_77,"Merupakan memory nan datanya dapat ditulis serta dihapus, tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_78,"Merupakan memory yang datanya angsal ditulis serta dihapus, tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_79,album paser cepak,0.0,10.0,10.0,6.666666666666667
+siswa_80,album paser pendek,0.0,10.0,10.0,6.666666666666667
+siswa_81,album jangka cepak,0.0,10.0,10.0,6.666666666666667
+siswa_82,album jangka pendek,0.0,10.0,10.0,6.666666666666667
+siswa_83,memori paser cepak,0.0,10.0,10.0,6.666666666666667
+siswa_84,memori paser pendek,0.0,10.0,10.0,6.666666666666667
+siswa_85,memori jangka cepak,0.0,10.0,10.0,6.666666666666667
+siswa_86,"Merupakan memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power kondisi off serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_87,"Merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power kondisi off serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_88,"Merupakan memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power kondisi off serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_89,volatile memory ialah memory nan berisi data dan dapat ditulis maupun dihapus kembali,75.0,60.0,75.0,70.0
+siswa_90,volatile memory ialah memory yang berisi data dan dapat ditulis maupun dihapus kembali,75.0,60.0,75.0,70.0
+siswa_91,volatile memory adalah memory nan berisi data dan dapat ditulis maupun dihapus kembali,75.0,60.0,75.0,70.0
+siswa_92,"Volatile memory ialah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_93,"Volatile memory ialah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_94,"Volatile memory adalah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_95,"Volatile, beradu kening cak atas album non-volatile , adalah memori komputer yang membutuhkan kekuatan untuk mempertahankan informasi yang tersimpan; mempertahankan isinya sementara bertenaga pada tetapi ketika listrik terganggu data yang disimpan hilang sangat cepat atau segera. Volatile memiliki beberapa kegunaan, misalnya sebagai memori utama . Selain biasanya menjadi lebih cepat dari bentuk penyimpanan massal seperti hard disk drive yang , volatilitas dapat melindungi informasi sensitif seperti itu menjadi tidak tersedia pada kekuasaan-down. Sebagian besar tujuan umum random-access memory (RAM) adalah stabil.",40.0,60.0,50.0,50.0
+siswa_96,"Volatile, beradu kening cak atas memori non-volatile , adalah memori komputer yang membutuhkan kekuatan untuk mempertahankan informasi yang tersimpan; mempertahankan isinya sementara bertenaga pada tetapi ketika listrik terganggu data yang disimpan hilang sangat cepat atau segera. Volatile memiliki beberapa kegunaan, misalnya sebagai memori utama . Selain biasanya menjadi lebih cepat dari bentuk penyimpanan massal seperti hard disk drive yang , volatilitas dapat melindungi informasi sensitif seperti itu menjadi tidak tersedia pada kekuasaan-down. Sebagian besar tujuan umum random-access memory (RAM) adalah stabil.",40.0,60.0,50.0,50.0
+siswa_97,"Volatile, beradu kening dengan album non-volatile , adalah memori komputer yang membutuhkan kekuatan untuk mempertahankan informasi yang tersimpan; mempertahankan isinya sementara bertenaga pada tetapi ketika listrik terganggu data yang disimpan hilang sangat cepat atau segera. Volatile memiliki beberapa kegunaan, misalnya sebagai memori utama . Selain biasanya menjadi lebih cepat dari bentuk penyimpanan massal seperti hard disk drive yang , volatilitas dapat melindungi informasi sensitif seperti itu menjadi tidak tersedia pada kekuasaan-down. Sebagian besar tujuan umum random-access memory (RAM) adalah stabil.",40.0,60.0,50.0,50.0
+siswa_98,"Volatile, beradu kening dengan memori non-volatile , adalah memori komputer yang membutuhkan kekuatan untuk mempertahankan informasi yang tersimpan; mempertahankan isinya sementara bertenaga pada tetapi ketika listrik terganggu data yang disimpan hilang sangat cepat atau segera. Volatile memiliki beberapa kegunaan, misalnya sebagai memori utama . Selain biasanya menjadi lebih cepat dari bentuk penyimpanan massal seperti hard disk drive yang , volatilitas dapat melindungi informasi sensitif seperti itu menjadi tidak tersedia pada kekuasaan-down. Sebagian besar tujuan umum random-access memory (RAM) adalah stabil.",40.0,60.0,50.0,50.0
+siswa_99,"Volatile, bertentangan cak atas album non-volatile , adalah memori komputer yang membutuhkan kekuatan untuk mempertahankan informasi yang tersimpan; mempertahankan isinya sementara bertenaga pada tetapi ketika listrik terganggu data yang disimpan hilang sangat cepat atau segera. Volatile memiliki beberapa kegunaan, misalnya sebagai memori utama . Selain biasanya menjadi lebih cepat dari bentuk penyimpanan massal seperti hard disk drive yang , volatilitas dapat melindungi informasi sensitif seperti itu menjadi tidak tersedia pada kekuasaan-down. Sebagian besar tujuan umum random-access memory (RAM) adalah stabil.",40.0,60.0,50.0,50.0
+siswa_100,"Volatile, bertentangan cak atas memori non-volatile , adalah memori komputer yang membutuhkan kekuatan untuk mempertahankan informasi yang tersimpan; mempertahankan isinya sementara bertenaga pada tetapi ketika listrik terganggu data yang disimpan hilang sangat cepat atau segera. Volatile memiliki beberapa kegunaan, misalnya sebagai memori utama . Selain biasanya menjadi lebih cepat dari bentuk penyimpanan massal seperti hard disk drive yang , volatilitas dapat melindungi informasi sensitif seperti itu menjadi tidak tersedia pada kekuasaan-down. Sebagian besar tujuan umum random-access memory (RAM) adalah stabil.",40.0,60.0,50.0,50.0
+siswa_101,"Volatile, bertentangan dengan album non-volatile , adalah memori komputer yang membutuhkan kekuatan untuk mempertahankan informasi yang tersimpan; mempertahankan isinya sementara bertenaga pada tetapi ketika listrik terganggu data yang disimpan hilang sangat cepat atau segera. Volatile memiliki beberapa kegunaan, misalnya sebagai memori utama . Selain biasanya menjadi lebih cepat dari bentuk penyimpanan massal seperti hard disk drive yang , volatilitas dapat melindungi informasi sensitif seperti itu menjadi tidak tersedia pada kekuasaan-down. Sebagian besar tujuan umum random-access memory (RAM) adalah stabil.",40.0,60.0,50.0,50.0
+siswa_102,"membentuk memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_103,"membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_104,"membentuk memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_105,"membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_106,"merupakan memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_107,"merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_108,"merupakan memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_109,"Volatile memory ialah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory. contohnya RAM",77.0,85.0,90.0,84.0
+siswa_110,"Volatile memory ialah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory. contohnya RAM",77.0,85.0,90.0,84.0
+siswa_111,"Volatile memory adalah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory. contohnya RAM",77.0,85.0,90.0,84.0
+siswa_112,memory nan datanya angsal ditulis dan dihapus,40.0,45.0,50.0,45.0
+siswa_113,memory nan datanya dapat ditulis dan dihapus,40.0,45.0,50.0,45.0
+siswa_114,memory yang datanya angsal ditulis dan dihapus,40.0,45.0,50.0,45.0
+siswa_115,"Memori nan datanya telah diisi oleh pembuat chip memori, artinya user meminta kepada pabrik pembuat memori agar diisi sesuai dengan keinginannya.",15.0,25.0,25.0,21.666666666666668
+siswa_116,"Memori nan datanya sudah diisi oleh pembuat chip memori, artinya user meminta kepada pabrik pembuat memori agar diisi sesuai dengan keinginannya.",15.0,25.0,25.0,21.666666666666668
+siswa_117,"Memori yang datanya telah diisi oleh pembuat chip memori, artinya user meminta kepada pabrik pembuat memori agar diisi sesuai dengan keinginannya.",15.0,25.0,25.0,21.666666666666668
+siswa_118,"Volatile memory membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_119,"Volatile memory membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_120,"Volatile memory merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_121,"memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power dalam kondisi off, serta membutuhkan satu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_122,"memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power dalam kondisi off, serta membutuhkan satu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_123,"memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power dalam kondisi off, serta membutuhkan satu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_124,"membentuk memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_125,"membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_126,"membentuk memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_127,"membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_128,"merupakan memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_129,"merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_130,"merupakan memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_131,"Volatile membentuk memory nan datanya dapat ditulis serta dihapus, tetapi akan hilang jika tidak ada aliran listrik (kondisi mati/off) dan membutuhkan daya untuk mempertahankan memory.",88.0,100.0,90.0,92.66666666666667
+siswa_132,"Volatile membentuk memory yang datanya dapat ditulis serta dihapus, tetapi akan hilang jika tidak ada aliran listrik (kondisi mati/off) dan membutuhkan daya untuk mempertahankan memory.",88.0,100.0,90.0,92.66666666666667
+siswa_133,"Volatile merupakan memory nan datanya dapat ditulis serta dihapus, tetapi akan hilang jika tidak ada aliran listrik (kondisi mati/off) dan membutuhkan daya untuk mempertahankan memory.",88.0,100.0,90.0,92.66666666666667
+siswa_134,"membentuk memory nan datanya angsal ditulis dan dihapus, tetapi dapat hilang saat kondisi power off",70.0,75.0,75.0,73.33333333333333
+siswa_135,"membentuk memory nan datanya dapat ditulis dan dihapus, tetapi dapat hilang saat kondisi power off",70.0,75.0,75.0,73.33333333333333
+siswa_136,"membentuk memory yang datanya angsal ditulis dan dihapus, tetapi dapat hilang saat kondisi power off",70.0,75.0,75.0,73.33333333333333
+siswa_137,"membentuk memory yang datanya dapat ditulis dan dihapus, tetapi dapat hilang saat kondisi power off",70.0,75.0,75.0,73.33333333333333
+siswa_138,"merupakan memory nan datanya angsal ditulis dan dihapus, tetapi dapat hilang saat kondisi power off",70.0,75.0,75.0,73.33333333333333
+siswa_139,"merupakan memory nan datanya dapat ditulis dan dihapus, tetapi dapat hilang saat kondisi power off",70.0,75.0,75.0,73.33333333333333
+siswa_140,"merupakan memory yang datanya angsal ditulis dan dihapus, tetapi dapat hilang saat kondisi power off",70.0,75.0,75.0,73.33333333333333
+siswa_141,"Volatile memory membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_142,"Volatile memory membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_143,"Volatile memory merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_144,memory paser cepak,8.0,15.0,10.0,11.0
+siswa_145,memory paser pendek,8.0,15.0,10.0,11.0
+siswa_146,memory jangka cepak,8.0,15.0,10.0,11.0
+siswa_147,Pengertian topologi jala-jala komputer jinjing ialah suatu cara atau konsep untuk menghubungkan beberapa atau banyak komputer sekaligus menjadi suatu jaringan yang saling terkoneksi.,0.0,0.0,0.0,1.0
+siswa_148,Pengertian topologi jala-jala komputer jinjing adalah suatu cara atau konsep untuk menghubungkan beberapa atau banyak komputer sekaligus menjadi suatu jaringan yang saling terkoneksi.,0.0,0.0,0.0,1.0
+siswa_149,Pengertian topologi jala-jala komputer ialah suatu cara atau konsep untuk menghubungkan beberapa atau banyak komputer sekaligus menjadi suatu jaringan yang saling terkoneksi.,0.0,0.0,0.0,1.0
+siswa_150,Pengertian topologi jala-jala komputer adalah suatu cara atau konsep untuk menghubungkan beberapa atau banyak komputer sekaligus menjadi suatu jaringan yang saling terkoneksi.,0.0,0.0,0.0,1.0
+siswa_151,Pengertian topologi jaringan komputer jinjing ialah suatu cara atau konsep untuk menghubungkan beberapa atau banyak komputer sekaligus menjadi suatu jaringan yang saling terkoneksi.,0.0,0.0,0.0,1.0
+siswa_152,Pengertian topologi jaringan komputer jinjing adalah suatu cara atau konsep untuk menghubungkan beberapa atau banyak komputer sekaligus menjadi suatu jaringan yang saling terkoneksi.,0.0,0.0,0.0,1.0
+siswa_153,Pengertian topologi jaringan komputer ialah suatu cara atau konsep untuk menghubungkan beberapa atau banyak komputer sekaligus menjadi suatu jaringan yang saling terkoneksi.,0.0,0.0,0.0,1.0
+siswa_154,Merupakan album nan bakal beterbangan datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_155,Merupakan album nan bakal hilang datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_156,Merupakan album nan akan beterbangan datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_157,Merupakan album nan akan hilang datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_158,Merupakan album yang bakal beterbangan datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_159,Merupakan album yang bakal hilang datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_160,Merupakan album yang akan beterbangan datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_161,Merupakan album yang akan hilang datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_162,Merupakan memori nan bakal beterbangan datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_163,Merupakan memori nan bakal hilang datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_164,Merupakan memori nan akan beterbangan datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_165,Merupakan memori nan akan hilang datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_166,Merupakan memori yang bakal beterbangan datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_167,Merupakan memori yang bakal hilang datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_168,Merupakan memori yang akan beterbangan datanya keika arus listrik dipadamkan,30.0,35.0,25.0,30.0
+siswa_169,"ialah bahan nan datanya angsal ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_170,"ialah bahan nan datanya dapat ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_171,"ialah bahan yang datanya angsal ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_172,"ialah bahan yang datanya dapat ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_173,"ialah data nan datanya angsal ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_174,"ialah data nan datanya dapat ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_175,"ialah data yang datanya angsal ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_176,"ialah data yang datanya dapat ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_177,"adalah bahan nan datanya angsal ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_178,"adalah bahan nan datanya dapat ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_179,"adalah bahan yang datanya angsal ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_180,"adalah bahan yang datanya dapat ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_181,"adalah data nan datanya angsal ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_182,"adalah data nan datanya dapat ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_183,"adalah data yang datanya angsal ditulis dan dihapus, tetapi akan hilang saat kehilangan power dan membutuhkan catu daya",77.0,85.0,90.0,84.0
+siswa_184,"volatile memory ialah penyimpanan memory sementara, yang mudah hilang",50.0,60.0,50.0,53.333333333333336
+siswa_185,memory nan datanya becus  dalam tulis dan di hapus,40.0,35.0,50.0,41.666666666666664
+siswa_186,memory nan datanya becus  di tulis dan di hapus,40.0,35.0,50.0,41.666666666666664
+siswa_187,memory nan datanya bisa dalam tulis dan di hapus,40.0,35.0,50.0,41.666666666666664
+siswa_188,memory nan datanya bisa di tulis dan di hapus,40.0,35.0,50.0,41.666666666666664
+siswa_189,memory yang datanya becus  dalam tulis dan di hapus,40.0,35.0,50.0,41.666666666666664
+siswa_190,memory yang datanya becus  di tulis dan di hapus,40.0,35.0,50.0,41.666666666666664
+siswa_191,memory yang datanya bisa dalam tulis dan di hapus,40.0,35.0,50.0,41.666666666666664
+siswa_192,volatile memory ialah memory nan datanya tidak dapat dihapus / ditulis kembali sehingga hanya bisa dibaca saja.,45.0,55.0,50.0,50.0
+siswa_193,volatile memory ialah memory yang datanya tidak dapat dihapus / ditulis kembali sehingga hanya bisa dibaca saja.,45.0,55.0,50.0,50.0
+siswa_194,volatile memory adalah memory nan datanya tidak dapat dihapus / ditulis kembali sehingga hanya bisa dibaca saja.,45.0,55.0,50.0,50.0
+siswa_195,Memory nan angsal dihapus.,25.0,30.0,25.0,26.666666666666668
+siswa_196,Memory nan dapat dihapus.,25.0,30.0,25.0,26.666666666666668
+siswa_197,Memory yang angsal dihapus.,25.0,30.0,25.0,26.666666666666668
+siswa_198,volatile adalah album selagi nan hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_199,volatile adalah album selagi yang hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_200,volatile adalah album sementara nan hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_201,volatile adalah album sementara yang hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_202,volatile adalah memori selagi nan hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_203,volatile adalah memori selagi yang hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_204,volatile adalah memori sementara nan hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_205,volatile adalah memori sementara yang hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_206,volatile ialah album selagi nan hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_207,volatile ialah album selagi yang hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_208,volatile ialah album sementara nan hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_209,volatile ialah album sementara yang hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_210,volatile ialah memori selagi nan hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_211,volatile ialah memori selagi yang hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_212,volatile ialah memori sementara nan hilang apabila listrik mati atau komputer dimatikan. contohnya RAM,40.0,45.0,50.0,45.0
+siswa_213,memory datanya nan angsal dihapus dan ditulis,40.0,45.0,50.0,45.0
+siswa_214,memory datanya nan dapat dihapus dan ditulis,40.0,45.0,50.0,45.0
+siswa_215,memory datanya yang angsal dihapus dan ditulis,40.0,45.0,50.0,45.0
+siswa_216,"memory nan datanya angsal ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_217,"memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_218,"memory yang datanya angsal ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_219,memory nan angsal berangkat kala di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_220,memory nan angsal berangkat ketika di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_221,memory nan angsal bertambah kala di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_222,memory nan angsal bertambah ketika di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_223,memory nan dapat berangkat kala di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_224,memory nan dapat berangkat ketika di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_225,memory nan dapat bertambah kala di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_226,memory nan dapat bertambah ketika di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_227,memory yang angsal berangkat kala di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_228,memory yang angsal berangkat ketika di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_229,memory yang angsal bertambah kala di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_230,memory yang angsal bertambah ketika di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_231,memory yang dapat berangkat kala di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_232,memory yang dapat berangkat ketika di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_233,memory yang dapat bertambah kala di butuhkan,10.0,5.0,10.0,8.333333333333334
+siswa_234,"Memory volatile ialah album nan datanya dapat ditulis atau dihapus, dan data akan hilang ketika tidak mendapat power / daya. Memory jenis ini hanya untuk penyimpanan data sementara saja, bukan untuk jangka waktu yang lama. Contoh dari memory volatile adalah RAM (Random Access Memory) digunakan sebagai memori utama untuk menyimpan program-program atau data-data yang sedang digunakan atau diperlukan oleh CPU saat dibutuhkan saja (sementara).",65.0,80.0,75.0,73.33333333333333
+siswa_235,"Memory volatile ialah album yang datanya dapat ditulis atau dihapus, dan data akan hilang ketika tidak mendapat power / daya. Memory jenis ini hanya untuk penyimpanan data sementara saja, bukan untuk jangka waktu yang lama. Contoh dari memory volatile adalah RAM (Random Access Memory) digunakan sebagai memori utama untuk menyimpan program-program atau data-data yang sedang digunakan atau diperlukan oleh CPU saat dibutuhkan saja (sementara).",65.0,80.0,75.0,73.33333333333333
+siswa_236,"Memory volatile ialah memori nan datanya dapat ditulis atau dihapus, dan data akan hilang ketika tidak mendapat power / daya. Memory jenis ini hanya untuk penyimpanan data sementara saja, bukan untuk jangka waktu yang lama. Contoh dari memory volatile adalah RAM (Random Access Memory) digunakan sebagai memori utama untuk menyimpan program-program atau data-data yang sedang digunakan atau diperlukan oleh CPU saat dibutuhkan saja (sementara).",65.0,80.0,75.0,73.33333333333333
+siswa_237,"Memory volatile ialah memori yang datanya dapat ditulis atau dihapus, dan data akan hilang ketika tidak mendapat power / daya. Memory jenis ini hanya untuk penyimpanan data sementara saja, bukan untuk jangka waktu yang lama. Contoh dari memory volatile adalah RAM (Random Access Memory) digunakan sebagai memori utama untuk menyimpan program-program atau data-data yang sedang digunakan atau diperlukan oleh CPU saat dibutuhkan saja (sementara).",65.0,80.0,75.0,73.33333333333333
+siswa_238,"Memory volatile adalah album nan datanya dapat ditulis atau dihapus, dan data akan hilang ketika tidak mendapat power / daya. Memory jenis ini hanya untuk penyimpanan data sementara saja, bukan untuk jangka waktu yang lama. Contoh dari memory volatile adalah RAM (Random Access Memory) digunakan sebagai memori utama untuk menyimpan program-program atau data-data yang sedang digunakan atau diperlukan oleh CPU saat dibutuhkan saja (sementara).",65.0,80.0,75.0,73.33333333333333
+siswa_239,"Memory volatile adalah album yang datanya dapat ditulis atau dihapus, dan data akan hilang ketika tidak mendapat power / daya. Memory jenis ini hanya untuk penyimpanan data sementara saja, bukan untuk jangka waktu yang lama. Contoh dari memory volatile adalah RAM (Random Access Memory) digunakan sebagai memori utama untuk menyimpan program-program atau data-data yang sedang digunakan atau diperlukan oleh CPU saat dibutuhkan saja (sementara).",65.0,80.0,75.0,73.33333333333333
+siswa_240,"Memory volatile adalah memori nan datanya dapat ditulis atau dihapus, dan data akan hilang ketika tidak mendapat power / daya. Memory jenis ini hanya untuk penyimpanan data sementara saja, bukan untuk jangka waktu yang lama. Contoh dari memory volatile adalah RAM (Random Access Memory) digunakan sebagai memori utama untuk menyimpan program-program atau data-data yang sedang digunakan atau diperlukan oleh CPU saat dibutuhkan saja (sementara).",65.0,80.0,75.0,73.33333333333333
+siswa_241,"Volatile memory membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. Contohnya adalah RAM",77.0,88.0,90.0,85.0
+siswa_242,"Volatile memory membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. Contohnya adalah RAM",77.0,88.0,90.0,85.0
+siswa_243,"Volatile memory merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory. Contohnya adalah RAM",77.0,88.0,90.0,85.0
+siswa_244,Volatile = selagi Memory = Ingatan jadi Ingatan Sementara,20.0,30.0,25.0,25.0
+siswa_245,"Volatile memory membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",88.0,95.0,90.0,91.0
+siswa_246,"Volatile memory membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",88.0,95.0,90.0,91.0
+siswa_247,"Volatile memory merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",88.0,95.0,90.0,91.0
+siswa_248,"membentuk memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_249,"membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_250,"membentuk memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_251,"membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_252,"merupakan memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_253,"merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_254,"merupakan memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_255,"Volatile memory ialah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",88.0,86.0,90.0,88.0
+siswa_256,"Volatile memory ialah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",88.0,86.0,90.0,88.0
+siswa_257,"Volatile memory adalah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory.",88.0,86.0,90.0,88.0
+siswa_258,"volatile memory membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_259,"volatile memory membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_260,"volatile memory merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_261,memory adendum,5.0,5.0,10.0,6.666666666666667
+siswa_262,valatile memory ajang penyimpana bahan volatile,30.0,30.0,25.0,28.333333333333332
+siswa_263,valatile memory ajang penyimpana data volatile,30.0,30.0,25.0,28.333333333333332
+siswa_264,valatile memory tempat penyimpana bahan volatile,30.0,30.0,25.0,28.333333333333332
+siswa_265,Volatile memory ialah ajang penyimpanan data volatile.,27.0,30.0,25.0,27.333333333333332
+siswa_266,Volatile memory ialah tempat penyimpanan data volatile.,27.0,30.0,25.0,27.333333333333332
+siswa_267,Volatile memory adalah ajang penyimpanan data volatile.,27.0,30.0,25.0,27.333333333333332
+siswa_268,ajang akan membenahi bahan volatile,25.0,30.0,25.0,26.666666666666668
+siswa_269,ajang akan membenahi data volatile,25.0,30.0,25.0,26.666666666666668
+siswa_270,ajang akan menyimpan bahan volatile,25.0,30.0,25.0,26.666666666666668
+siswa_271,ajang akan menyimpan data volatile,25.0,30.0,25.0,26.666666666666668
+siswa_272,ajang untuk membenahi bahan volatile,25.0,30.0,25.0,26.666666666666668
+siswa_273,ajang untuk membenahi data volatile,25.0,30.0,25.0,26.666666666666668
+siswa_274,ajang untuk menyimpan bahan volatile,25.0,30.0,25.0,26.666666666666668
+siswa_275,ajang untuk menyimpan data volatile,25.0,30.0,25.0,26.666666666666668
+siswa_276,tempat akan membenahi bahan volatile,25.0,30.0,25.0,26.666666666666668
+siswa_277,tempat akan membenahi data volatile,25.0,30.0,25.0,26.666666666666668
+siswa_278,tempat akan menyimpan bahan volatile,25.0,30.0,25.0,26.666666666666668
+siswa_279,tempat akan menyimpan data volatile,25.0,30.0,25.0,26.666666666666668
+siswa_280,tempat untuk membenahi bahan volatile,25.0,30.0,25.0,26.666666666666668
+siswa_281,tempat untuk membenahi data volatile,25.0,30.0,25.0,26.666666666666668
+siswa_282,tempat untuk menyimpan bahan volatile,25.0,30.0,25.0,26.666666666666668
+siswa_283,membentuk memory nan datanya angsal ditulis serta dihapus tetapi akan hilang,40.0,50.0,50.0,46.666666666666664
+siswa_284,membentuk memory nan datanya dapat ditulis serta dihapus tetapi akan hilang,40.0,50.0,50.0,46.666666666666664
+siswa_285,membentuk memory yang datanya angsal ditulis serta dihapus tetapi akan hilang,40.0,50.0,50.0,46.666666666666664
+siswa_286,membentuk memory yang datanya dapat ditulis serta dihapus tetapi akan hilang,40.0,50.0,50.0,46.666666666666664
+siswa_287,merupakan memory nan datanya angsal ditulis serta dihapus tetapi akan hilang,40.0,50.0,50.0,46.666666666666664
+siswa_288,merupakan memory nan datanya dapat ditulis serta dihapus tetapi akan hilang,40.0,50.0,50.0,46.666666666666664
+siswa_289,merupakan memory yang datanya angsal ditulis serta dihapus tetapi akan hilang,40.0,50.0,50.0,46.666666666666664
+siswa_290,"Volatile memory ialah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_291,"Volatile memory ialah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_292,"Volatile memory adalah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya dalam mempertahankan memory",80.0,90.0,90.0,86.66666666666667
+siswa_293,memory nan digunakan akan penyimpanan sementara,25.0,35.0,25.0,28.333333333333332
+siswa_294,memory nan digunakan untuk penyimpanan sementara,25.0,35.0,25.0,28.333333333333332
+siswa_295,memory yang digunakan akan penyimpanan sementara,25.0,35.0,25.0,28.333333333333332
+siswa_296,"-Volatile memory ialah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya Dalam mempertahankan memory.",88.0,86.0,90.0,88.0
+siswa_297,"-Volatile memory ialah memory yang datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya Dalam mempertahankan memory.",88.0,86.0,90.0,88.0
+siswa_298,"-Volatile memory adalah memory nan datanya dapat ditulis dan dihapus ,tetapi hilang saat kehilangan power (kondisi off) dan membutuhkan catu daya Dalam mempertahankan memory.",88.0,86.0,90.0,88.0
+siswa_299,"membentuk memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_300,"membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_301,"membentuk memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_302,"membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_303,"merupakan memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_304,"merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_305,"merupakan memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_306,"membentuk memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_307,"membentuk memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_308,"membentuk memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_309,"membentuk memory yang datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_310,"merupakan memory nan datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_311,"merupakan memory nan datanya dapat ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_312,"merupakan memory yang datanya angsal ditulis serta dihapus,tetapi akan hilang saat kehilangan power (kondisi off) serta membutuhkan satu daya dalam mempertahankan memory.",80.0,90.0,90.0,86.66666666666667
+siswa_313,memory nan digunakan akan membenahi data,25.0,20.0,25.0,23.333333333333332
+siswa_314,memory nan digunakan akan menyimpan data,25.0,20.0,25.0,23.333333333333332
+siswa_315,memory nan digunakan untuk membenahi data,25.0,20.0,25.0,23.333333333333332
+siswa_316,memory nan digunakan untuk menyimpan data,25.0,20.0,25.0,23.333333333333332
+siswa_317,memory yang digunakan akan membenahi data,25.0,20.0,25.0,23.333333333333332
+siswa_318,memory yang digunakan akan menyimpan data,25.0,20.0,25.0,23.333333333333332
+siswa_319,memory yang digunakan untuk membenahi data,25.0,20.0,25.0,23.333333333333332
+siswa_320,volatile memory ialah memory selagi untuk menjalankan komputer. hal ini untuk menyeimbangkan antara RAM dan processor,45.0,40.0,50.0,45.0
+siswa_321,volatile memory ialah memory sementara untuk menjalankan komputer. hal ini untuk menyeimbangkan antara RAM dan processor,45.0,40.0,50.0,45.0
+siswa_322,volatile memory adalah memory selagi untuk menjalankan komputer. hal ini untuk menyeimbangkan antara RAM dan processor,45.0,40.0,50.0,45.0

@@ -1,0 +1,471 @@
+Siswa,Jawaban,Manual 1,Manual 2,Manual 3,Rata Manual
+siswa_1 ,- Memulai pertandingan - Terjadinya gol - Memulai babak kedua - Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_2 ,"1. awal pertandingan babak pertama, 2. awal pertandingan babak kedua, 3. sesudah gol terjadi. ",75.0,80.0,75.0,76.66666666666667
+siswa_3 ,"setelah gol, pembukaan babak pertama, pembukaan babak kedua ",60.0,75.0,75.0,70.0
+siswa_4 ,1. Pertama kali dimulainnya permainan babak pertama. 2. Pertama kali dimulainnya permainan babak kedua. 3. Setlah tercetaknya goal. ,55.0,50.0,50.0,51.666666666666664
+siswa_6 ,offside ,0.0,0.0,0.0,1.0
+siswa_7 ,Dilakukan untuk membuka babak 1 dan 2 dan babak extra time jika ada. Dan juga kick off dilakukan bila terjadi gol (pihak yang kebobolan akan melakukan kick off) ,30.0,25.0,25.0,26.666666666666668
+siswa_8 ,"pemain siap, wasit siap, dan panitia pelaksana mengizinkan ",0.0,0.0,0.0,1.0
+siswa_9 ,Memulai pertandingan Terjadinya gol Memulai babak kedua Memulai babak perpanjangan waktu ,100.0,100.0,100.0,100.0
+siswa_10 ,Memulai pertandingan Terjadinya gol Memulai babak kedua Memulai babak perpanjangan waktu ,100.0,100.0,100.0,100.0
+siswa_11 ,Kick off dapat dilakukan dalam kondisi berikut: Memulai pertandingan Terjadinya gol Memulai babak kedua Memulai babak perpanjangan waktu ,90.0,95.0,90.0,91.66666666666667
+siswa_12 ,"kedua tim yang bertanding sudah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding ",10.0,10.0,10.0,10.0
+siswa_14 ,"pertandingan baru dimulai,pertandingan memasuki babak kedua,pertandingan memasuki babak tambahan ",75.0,60.0,75.0,70.0
+siswa_16 ,"Pelanggaran, ",0.0,0.0,0.0,1.0
+siswa_17 ,"saat terjadi pelanggaran, saat pemain melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya. ",10.0,25.0,25.0,20.0
+siswa_18 ,ada 17 kondisi pada kick off pada sepak bola ,0.0,0.0,0.0,1.0
+siswa_19 ,"adanya keamanan , adanya wasit untuk mengatur permainan , kondisi lapangan bagus ",0.0,0.0,0.0,1.0
+siswa_20 ,"pemain sudah siap, wasit sudah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan ",0.0,0.0,0.0,1.0
+siswa_22 ,-saat dimulainya babak pertama suatu pertandingan sepakbola -saat dimulainya babak kedua suatu pertandingan sepakbola -saat salah satu lawan mencetak gol ke gawang musuhnya,60.0,75.0,75.0,70.0
+siswa_24 ,"pada saat kiper siap, saat wasit ke 2 siap, saat hakim garis siap ",0.0,0.0,0.0,1.0
+siswa_25 ,1. pada saat kedua penjaga gawang telah siap 2. pada saat time keeper di luar lapangan telah siap 3. pada saat hakim garis telah siap melakukan tugasnya ,0.0,0.0,0.0,1.0
+siswa_26 ,gak tau ,0.0,0.0,0.0,1.0
+siswa_27 ,memulai pertandingan. terjadi gol. memulai babak kedua. memulai babak perpanjangan waktu. ,100.0,100.0,100.0,100.0
+siswa_28 ,Memulai pertandingan Terjadinya gol Memulai babak kedua Memulai babak perpanjangan waktu ,100.0,100.0,100.0,100.0
+siswa_33 ,"Kick off merupakan tendangan awal pada bola sebelum musuh merebut bola kick off dilakukan saat membuka babak 1 dan baak dua, kick off juga dilakukan saat ada extra time ",10.0,15.0,10.0,11.666666666666666
+siswa_34 ,"memulai pertandinga, terjadinya gol, memulai babak kedua, memulai babak perpanjangan waktu ",90.0,95.0,90.0,91.66666666666667
+siswa_35 ,"Tendangan utama, tendangan pembuka pertandingan, tendangan umpan pertama ",20.0,25.0,25.0,23.333333333333332
+siswa_36 ,para pemain sudah siap dan berada pada posisi di lapangan ,0.0,0.0,0.0,1.0
+siswa_37 ,"awal babak pertama, awal babak kedua, setelah dilakukannya penalti. ",40.0,35.0,50.0,41.666666666666664
+siswa_38 ,"Corner, Free kick, Pinalty. ",0.0,0.0,0.0,1.0
+siswa_39 ,"-biasnya wasit melakukan pengecekan pada jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_40 ,pertandingan sudah siap dan akan dimulainya pertandingan ,30.0,25.0,25.0,26.666666666666668
+siswa_41 ,- perangkat pertandingan sudah dinyatakan siap. - terdapat 2 tim yang bertanding dalam 2 x 45 menit - cuaca mendukung jalannya pertandingan. ,10.0,15.0,10.0,11.666666666666666
+siswa_42 ,- kedua kubu sudah siap - pelatih dan officialnya sudah siap - lapangan sudah siap dan tidak ada masalah,0.0,30.0,0.0,10.0
+siswa_43 ,- Memulai babak pertama - Memulai babak kedua - apabila terjadi water break - apabila terjadi goal,70.0,75.0,75.0,73.33333333333333
+siswa_44 ,KICK OFF: Tendangan yang dilakukan untuk memulai babak pertama/kedua dalam suatu pertandingan ,40.0,30.0,50.0,40.0
+siswa_45 ,Kick off adalah teknik dalam memulai suatu permainan dan akan dilakukan bila terjadi hal berikut Memulai pertandingan Terjadinya sebuah gol Memulai babak yang kedua Memulai babak extra time ,70.0,80.0,75.0,75.0
+siswa_46 ,-menunggu peluit -melakukan tendangan pertama -mengumpan bola ke belakang setelah peluit,20.0,20.0,25.0,21.666666666666668
+siswa_47 ,Kick off dapat dilakukan dalam kondisi berikut: - Memulai pertandingan - Terjadinya gol - Memulai babak kedua - Memulai babak perpanjangan waktu ,90.0,90.0,90.0,90.0
+siswa_48 ,"Lapangan Sepak Bola,Peraturan Penggunaan Bola,Peraturan Jumlah Pemain Sepak Bola ",0.0,0.0,0.0,1.0
+siswa_49 ,- awal permainan babak pertama - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_50 ,lapanga yang memadai lampu yang cukup kursi penonton ,0.0,0.0,0.0,1.0
+siswa_51 ,-lapangan yang memadai -lampu yang cukup -kursi penonton,0.0,0.0,0.0,1.0
+siswa_52 ,"semua pemain atau team sudah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off ",10.0,10.0,10.0,10.0
+siswa_53 ,"saat pertama kali dimulai, dan babak ke 2 ",20.0,25.0,25.0,23.333333333333332
+siswa_54 ,"Pemain sudah siap, kondisi stadion aman, wasit dan hakim garis sudah siap. ",0.0,0.0,0.0,1.0
+siswa_55 ,"kedua tim telah siap di lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai ",0.0,0.0,0.0,1.0
+siswa_56 ,siap syarat -syarat terpenuhi terdapat pemain ,0.0,0.0,0.0,1.0
+siswa_57 ,- bola harus di tendang ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_58 ,"hands ball , fre kick , terkena kartu ",0.0,0.0,0.0,1.0
+siswa_59 ,pemain yang masuk lapangan. wasit. serta perwakilan pengawas pertandingan dari asosiasi sepakbola yang ada di negara nya ,0.0,0.0,0.0,1.0
+siswa_60 ,"pemain lengkap, wasit ada, perlengkapan siap ",0.0,0.0,0.0,1.0
+siswa_61 ,"Peraturan Jumlah Pemain Sepak Bola harus lengkap Peraturan Dalam Memakai Aksesoris seperti jersey sepatu dll Wasit, asisten wasit dan pengamat pertandingan harus siap Seluruh pemain siap ",10.0,0.0,0.0,3.3333333333333335
+siswa_62 ,"Lapangan Sepak Bola, peraturan penggunaan, jumlah pemain. ",5.0,0.0,0.0,1.6666666666666667
+siswa_63 ,1. pelanggaran 2. offside 3. memperoleh kartu ,0.0,0.0,0.0,1.0
+siswa_64 ,-offside -faul -corner kick,0.0,0.0,0.0,1.0
+siswa_65,- Memulai festival - Terjadinya gol - Memulai babak kedua - Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_66,"1. asal festival adegan pertama, 2. awal pertandingan babak kedua, 3. sesudah gol terjadi.",75.0,80.0,75.0,76.66666666666667
+siswa_67,"1. asal festival babak pertama, 2. awal pertandingan babak kedua, 3. sesudah gol terjadi.",75.0,80.0,75.0,76.66666666666667
+siswa_68,"1. asal pertandingan adegan pertama, 2. awal pertandingan babak kedua, 3. sesudah gol terjadi.",75.0,80.0,75.0,76.66666666666667
+siswa_69,"1. asal pertandingan babak pertama, 2. awal pertandingan babak kedua, 3. sesudah gol terjadi.",75.0,80.0,75.0,76.66666666666667
+siswa_70,"1. awal festival adegan pertama, 2. awal pertandingan babak kedua, 3. sesudah gol terjadi.",75.0,80.0,75.0,76.66666666666667
+siswa_71,"1. awal festival babak pertama, 2. awal pertandingan babak kedua, 3. sesudah gol terjadi.",75.0,80.0,75.0,76.66666666666667
+siswa_72,"1. awal pertandingan adegan pertama, 2. awal pertandingan babak kedua, 3. sesudah gol terjadi.",75.0,80.0,75.0,76.66666666666667
+siswa_73,"sehabis gol, awal adegan pertama, pembukaan babak kedua",60.0,75.0,75.0,70.0
+siswa_74,"sehabis gol, awal babak pertama, pembukaan babak kedua",60.0,75.0,75.0,70.0
+siswa_75,"sehabis gol, pembukaan adegan pertama, pembukaan babak kedua",60.0,75.0,75.0,70.0
+siswa_76,"sehabis gol, pembukaan babak pertama, pembukaan babak kedua",60.0,75.0,75.0,70.0
+siswa_77,"setelah gol, awal adegan pertama, pembukaan babak kedua",60.0,75.0,75.0,70.0
+siswa_78,"setelah gol, awal babak pertama, pembukaan babak kedua",60.0,75.0,75.0,70.0
+siswa_79,"setelah gol, pembukaan adegan pertama, pembukaan babak kedua",60.0,75.0,75.0,70.0
+siswa_80,1. Pertama darab dimulainnya mainan babak pertama. 2. Pertama kali dimulainnya permainan babak kedua. 3. Setlah tercetaknya goal.,55.0,50.0,50.0,51.666666666666664
+siswa_81,1. Pertama darab dimulainnya permainan babak pertama. 2. Pertama kali dimulainnya permainan babak kedua. 3. Setlah tercetaknya goal.,55.0,50.0,50.0,51.666666666666664
+siswa_82,1. Pertama kali dimulainnya mainan babak pertama. 2. Pertama kali dimulainnya permainan babak kedua. 3. Setlah tercetaknya goal.,55.0,50.0,50.0,51.666666666666664
+siswa_83,Dilakukan akan membocorkan adegan 1 dan 2 dan babak extra time jika ada. Dan juga kick off dilakukan bila terjadi gol (pihak yang kebobolan akan melakukan kick off),30.0,25.0,25.0,26.666666666666668
+siswa_84,Dilakukan akan membocorkan babak 1 dan 2 dan babak extra time jika ada. Dan juga kick off dilakukan bila terjadi gol (pihak yang kebobolan akan melakukan kick off),30.0,25.0,25.0,26.666666666666668
+siswa_85,Dilakukan akan membuka adegan 1 dan 2 dan babak extra time jika ada. Dan juga kick off dilakukan bila terjadi gol (pihak yang kebobolan akan melakukan kick off),30.0,25.0,25.0,26.666666666666668
+siswa_86,Dilakukan akan membuka babak 1 dan 2 dan babak extra time jika ada. Dan juga kick off dilakukan bila terjadi gol (pihak yang kebobolan akan melakukan kick off),30.0,25.0,25.0,26.666666666666668
+siswa_87,Dilakukan untuk membocorkan adegan 1 dan 2 dan babak extra time jika ada. Dan juga kick off dilakukan bila terjadi gol (pihak yang kebobolan akan melakukan kick off),30.0,25.0,25.0,26.666666666666668
+siswa_88,Dilakukan untuk membocorkan babak 1 dan 2 dan babak extra time jika ada. Dan juga kick off dilakukan bila terjadi gol (pihak yang kebobolan akan melakukan kick off),30.0,25.0,25.0,26.666666666666668
+siswa_89,Dilakukan untuk membuka adegan 1 dan 2 dan babak extra time jika ada. Dan juga kick off dilakukan bila terjadi gol (pihak yang kebobolan akan melakukan kick off),30.0,25.0,25.0,26.666666666666668
+siswa_90,"aktor siap, hakim siap, bersama panitia pelaksana mengizinkan",0.0,0.0,0.0,1.0
+siswa_91,"aktor siap, hakim siap, dan panitia pelaksana mengizinkan",0.0,0.0,0.0,1.0
+siswa_92,"aktor siap, wasit siap, bersama panitia pelaksana mengizinkan",0.0,0.0,0.0,1.0
+siswa_93,"aktor siap, wasit siap, dan panitia pelaksana mengizinkan",0.0,0.0,0.0,1.0
+siswa_94,"pemain siap, hakim siap, bersama panitia pelaksana mengizinkan",0.0,0.0,0.0,1.0
+siswa_95,"pemain siap, hakim siap, dan panitia pelaksana mengizinkan",0.0,0.0,0.0,1.0
+siswa_96,"pemain siap, wasit siap, bersama panitia pelaksana mengizinkan",0.0,0.0,0.0,1.0
+siswa_97,Memulai festival Terjadinya angka Memulai babak kedua Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_98,Memulai festival Terjadinya gol Memulai babak kedua Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_99,Memulai pertandingan Terjadinya angka Memulai babak kedua Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_100,Memulai festival Terjadinya angka Memulai babak kedua Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_101,Memulai festival Terjadinya gol Memulai babak kedua Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_102,Memulai pertandingan Terjadinya angka Memulai babak kedua Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_103,Kick off angsal dilakukan analitis kondisi berikut: Memulai pertandingan Terjadinya gol Memulai babak kedua Memulai babak perpanjangan waktu,90.0,95.0,90.0,91.66666666666667
+siswa_104,Kick off angsal dilakukan dalam kondisi berikut: Memulai pertandingan Terjadinya gol Memulai babak kedua Memulai babak perpanjangan waktu,90.0,95.0,90.0,91.66666666666667
+siswa_105,Kick off dapat dilakukan analitis kondisi berikut: Memulai pertandingan Terjadinya gol Memulai babak kedua Memulai babak perpanjangan waktu,90.0,95.0,90.0,91.66666666666667
+siswa_106,"kedua awak nan atas-mengatasi telah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_107,"kedua awak nan atas-mengatasi sudah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_108,"kedua awak nan bertanding telah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_109,"kedua awak nan bertanding sudah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_110,"kedua awak yang atas-mengatasi telah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_111,"kedua awak yang atas-mengatasi sudah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_112,"kedua awak yang bertanding telah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_113,"kedua awak yang bertanding sudah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_114,"kedua tim nan atas-mengatasi telah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_115,"kedua tim nan atas-mengatasi sudah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_116,"kedua tim nan bertanding telah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_117,"kedua tim nan bertanding sudah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_118,"kedua tim yang atas-mengatasi telah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_119,"kedua tim yang atas-mengatasi sudah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_120,"kedua tim yang bertanding telah lengkap, wasit yang memimpin pertandingan sudah siap, ada lapangan yang digunakan untuk bertanding",10.0,10.0,10.0,10.0
+siswa_121,"festival aktual dimulai,pertandingan menaiki adegan kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_122,"festival aktual dimulai,pertandingan menaiki babak kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_123,"festival aktual dimulai,pertandingan memasuki adegan kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_124,"festival aktual dimulai,pertandingan memasuki babak kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_125,"festival baru dimulai,pertandingan menaiki adegan kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_126,"festival baru dimulai,pertandingan menaiki babak kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_127,"festival baru dimulai,pertandingan memasuki adegan kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_128,"festival baru dimulai,pertandingan memasuki babak kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_129,"pertandingan aktual dimulai,pertandingan menaiki adegan kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_130,"pertandingan aktual dimulai,pertandingan menaiki babak kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_131,"pertandingan aktual dimulai,pertandingan memasuki adegan kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_132,"pertandingan aktual dimulai,pertandingan memasuki babak kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_133,"pertandingan baru dimulai,pertandingan menaiki adegan kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_134,"pertandingan baru dimulai,pertandingan menaiki babak kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_135,"pertandingan baru dimulai,pertandingan memasuki adegan kedua,pertandingan memasuki babak tambahan",75.0,60.0,75.0,70.0
+siswa_136,"detik berjalan pelanggaran, detik aktor melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_137,"detik berjalan pelanggaran, detik pemain melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_138,"detik berjalan pelanggaran, saat aktor melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_139,"detik berjalan pelanggaran, saat pemain melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_140,"detik terjadi pelanggaran, detik aktor melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_141,"detik terjadi pelanggaran, detik pemain melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_142,"detik terjadi pelanggaran, saat aktor melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_143,"detik terjadi pelanggaran, saat pemain melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_144,"saat berjalan pelanggaran, detik aktor melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_145,"saat berjalan pelanggaran, detik pemain melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_146,"saat berjalan pelanggaran, saat aktor melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_147,"saat berjalan pelanggaran, saat pemain melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_148,"saat terjadi pelanggaran, detik aktor melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_149,"saat terjadi pelanggaran, detik pemain melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_150,"saat terjadi pelanggaran, saat aktor melakukan off site, dan pada saat pemain akan melakukan umpan namun musuh menyerang kakinya bukan bolanya.",10.0,25.0,25.0,20.0
+siswa_151,siap 17 hal cak  ala kick off pada sepak bola,0.0,0.0,0.0,1.0
+siswa_152,siap 17 hal pada kick off pada sepak bola,0.0,0.0,0.0,1.0
+siswa_153,siap 17 kondisi cak  ala kick off pada sepak bola,0.0,0.0,0.0,1.0
+siswa_154,siap 17 kondisi pada kick off pada sepak bola,0.0,0.0,0.0,1.0
+siswa_155,ada 17 hal cak  ala kick off pada sepak bola,0.0,0.0,0.0,1.0
+siswa_156,ada 17 hal pada kick off pada sepak bola,0.0,0.0,0.0,1.0
+siswa_157,ada 17 kondisi cak  ala kick off pada sepak bola,0.0,0.0,0.0,1.0
+siswa_158,"adanya kebahagiaan , adanya hakim untuk mengatur permainan , kondisi lapangan bagus",0.0,0.0,0.0,1.0
+siswa_159,"adanya kebahagiaan , adanya wasit untuk mengatur permainan , kondisi lapangan bagus",0.0,0.0,0.0,1.0
+siswa_160,"adanya keamanan , adanya hakim untuk mengatur permainan , kondisi lapangan bagus",0.0,0.0,0.0,1.0
+siswa_161,"aktor telah siap, hakim telah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_162,"aktor telah siap, hakim sudah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_163,"aktor telah siap, wasit telah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_164,"aktor telah siap, wasit sudah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_165,"aktor sudah siap, hakim telah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_166,"aktor sudah siap, hakim sudah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_167,"aktor sudah siap, wasit telah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_168,"aktor sudah siap, wasit sudah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_169,"pemain telah siap, hakim telah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_170,"pemain telah siap, hakim sudah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_171,"pemain telah siap, wasit telah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_172,"pemain telah siap, wasit sudah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_173,"pemain sudah siap, hakim telah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_174,"pemain sudah siap, hakim sudah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_175,"pemain sudah siap, wasit telah siap, keamanan sudah siap, panitia pelaksana sudah memperbolehkan",0.0,0.0,0.0,1.0
+siswa_176,-saat dimulainya adegan mula-mula satu pertandingan sepakbola -saat dimulainya babak kedua suatu pertandingan sepakbola -saat salah satu lawan mencetak gol ke gawang musuhnya,60.0,75.0,75.0,70.0
+siswa_177,-saat dimulainya adegan mula-mula suatu pertandingan sepakbola -saat dimulainya babak kedua suatu pertandingan sepakbola -saat salah satu lawan mencetak gol ke gawang musuhnya,60.0,75.0,75.0,70.0
+siswa_178,-saat dimulainya adegan pertama satu pertandingan sepakbola -saat dimulainya babak kedua suatu pertandingan sepakbola -saat salah satu lawan mencetak gol ke gawang musuhnya,60.0,75.0,75.0,70.0
+siswa_179,-saat dimulainya adegan pertama suatu pertandingan sepakbola -saat dimulainya babak kedua suatu pertandingan sepakbola -saat salah satu lawan mencetak gol ke gawang musuhnya,60.0,75.0,75.0,70.0
+siswa_180,-saat dimulainya babak mula-mula satu pertandingan sepakbola -saat dimulainya babak kedua suatu pertandingan sepakbola -saat salah satu lawan mencetak gol ke gawang musuhnya,60.0,75.0,75.0,70.0
+siswa_181,-saat dimulainya babak mula-mula suatu pertandingan sepakbola -saat dimulainya babak kedua suatu pertandingan sepakbola -saat salah satu lawan mencetak gol ke gawang musuhnya,60.0,75.0,75.0,70.0
+siswa_182,-saat dimulainya babak pertama satu pertandingan sepakbola -saat dimulainya babak kedua suatu pertandingan sepakbola -saat salah satu lawan mencetak gol ke gawang musuhnya,60.0,75.0,75.0,70.0
+siswa_183,"cak  ala detik kiper siap, detik wasit ke 2 siap, saat hakim garis siap",0.0,0.0,0.0,1.0
+siswa_184,"cak  ala detik kiper siap, saat wasit ke 2 siap, saat hakim garis siap",0.0,0.0,0.0,1.0
+siswa_185,"cak  ala saat kiper siap, detik wasit ke 2 siap, saat hakim garis siap",0.0,0.0,0.0,1.0
+siswa_186,"cak  ala saat kiper siap, saat wasit ke 2 siap, saat hakim garis siap",0.0,0.0,0.0,1.0
+siswa_187,"pada detik kiper siap, detik wasit ke 2 siap, saat hakim garis siap",0.0,0.0,0.0,1.0
+siswa_188,"pada detik kiper siap, saat wasit ke 2 siap, saat hakim garis siap",0.0,0.0,0.0,1.0
+siswa_189,"pada saat kiper siap, detik wasit ke 2 siap, saat hakim garis siap",0.0,0.0,0.0,1.0
+siswa_190,1. cak  ala detik kedua pelindung gawang telah siap 2. pada saat time keeper di luar lapangan telah siap 3. pada saat hakim garis telah siap melakukan tugasnya,0.0,0.0,0.0,1.0
+siswa_191,1. cak  ala detik kedua penjaga gawang telah siap 2. pada saat time keeper di luar lapangan telah siap 3. pada saat hakim garis telah siap melakukan tugasnya,0.0,0.0,0.0,1.0
+siswa_192,1. cak  ala saat kedua pelindung gawang telah siap 2. pada saat time keeper di luar lapangan telah siap 3. pada saat hakim garis telah siap melakukan tugasnya,0.0,0.0,0.0,1.0
+siswa_193,1. cak  ala saat kedua penjaga gawang telah siap 2. pada saat time keeper di luar lapangan telah siap 3. pada saat hakim garis telah siap melakukan tugasnya,0.0,0.0,0.0,1.0
+siswa_194,1. pada detik kedua pelindung gawang telah siap 2. pada saat time keeper di luar lapangan telah siap 3. pada saat hakim garis telah siap melakukan tugasnya,0.0,0.0,0.0,1.0
+siswa_195,1. pada detik kedua penjaga gawang telah siap 2. pada saat time keeper di luar lapangan telah siap 3. pada saat hakim garis telah siap melakukan tugasnya,0.0,0.0,0.0,1.0
+siswa_196,1. pada saat kedua pelindung gawang telah siap 2. pada saat time keeper di luar lapangan telah siap 3. pada saat hakim garis telah siap melakukan tugasnya,0.0,0.0,0.0,1.0
+siswa_197,melakukan pertandingan. berjalan gol. melakukan babak kedua. memulai babak perpanjangan waktu.,100.0,100.0,100.0,100.0
+siswa_198,melakukan pertandingan. berjalan gol. memulai babak kedua. memulai babak perpanjangan waktu.,100.0,100.0,100.0,100.0
+siswa_199,melakukan pertandingan. terjadi gol. melakukan babak kedua. memulai babak perpanjangan waktu.,100.0,100.0,100.0,100.0
+siswa_200,melakukan pertandingan. terjadi gol. memulai babak kedua. memulai babak perpanjangan waktu.,100.0,100.0,100.0,100.0
+siswa_201,memulai pertandingan. berjalan gol. melakukan babak kedua. memulai babak perpanjangan waktu.,100.0,100.0,100.0,100.0
+siswa_202,memulai pertandingan. berjalan gol. memulai babak kedua. memulai babak perpanjangan waktu.,100.0,100.0,100.0,100.0
+siswa_203,memulai pertandingan. terjadi gol. melakukan babak kedua. memulai babak perpanjangan waktu.,100.0,100.0,100.0,100.0
+siswa_204,Memulai festival Terjadinya angka Memulai babak kedua Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_205,Memulai festival Terjadinya gol Memulai babak kedua Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_206,Memulai pertandingan Terjadinya angka Memulai babak kedua Memulai babak perpanjangan waktu,100.0,100.0,100.0,100.0
+siswa_207,"Kick off membentuk depakan asal pada bola sebelum musuh merebut bola kick off dilakukan saat membuka babak 1 dan baak dua, kick off juga dilakukan saat ada extra time",10.0,15.0,10.0,11.666666666666666
+siswa_208,"Kick off membentuk depakan awal pada bola sebelum musuh merebut bola kick off dilakukan saat membuka babak 1 dan baak dua, kick off juga dilakukan saat ada extra time",10.0,15.0,10.0,11.666666666666666
+siswa_209,"Kick off membentuk tendangan asal pada bola sebelum musuh merebut bola kick off dilakukan saat membuka babak 1 dan baak dua, kick off juga dilakukan saat ada extra time",10.0,15.0,10.0,11.666666666666666
+siswa_210,"Kick off membentuk tendangan awal pada bola sebelum musuh merebut bola kick off dilakukan saat membuka babak 1 dan baak dua, kick off juga dilakukan saat ada extra time",10.0,15.0,10.0,11.666666666666666
+siswa_211,"Kick off merupakan depakan asal pada bola sebelum musuh merebut bola kick off dilakukan saat membuka babak 1 dan baak dua, kick off juga dilakukan saat ada extra time",10.0,15.0,10.0,11.666666666666666
+siswa_212,"Kick off merupakan depakan awal pada bola sebelum musuh merebut bola kick off dilakukan saat membuka babak 1 dan baak dua, kick off juga dilakukan saat ada extra time",10.0,15.0,10.0,11.666666666666666
+siswa_213,"Kick off merupakan tendangan asal pada bola sebelum musuh merebut bola kick off dilakukan saat membuka babak 1 dan baak dua, kick off juga dilakukan saat ada extra time",10.0,15.0,10.0,11.666666666666666
+siswa_214,"melakukan pertandinga, terjadinya gol, melakukan babak kedua, memulai babak perpanjangan waktu",90.0,95.0,90.0,91.66666666666667
+siswa_215,"melakukan pertandinga, terjadinya gol, memulai babak kedua, memulai babak perpanjangan waktu",90.0,95.0,90.0,91.66666666666667
+siswa_216,"memulai pertandinga, terjadinya gol, melakukan babak kedua, memulai babak perpanjangan waktu",90.0,95.0,90.0,91.66666666666667
+siswa_217,"Tendangan utama, depakan pembuka pertandingan, tendangan umpan pertama",20.0,25.0,25.0,23.333333333333332
+siswa_218,getah perca aktor telah beres bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_219,getah perca aktor telah beres dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_220,getah perca aktor telah siap bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_221,getah perca aktor telah siap dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_222,getah perca aktor sudah beres bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_223,getah perca aktor sudah beres dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_224,getah perca aktor sudah siap bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_225,getah perca aktor sudah siap dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_226,getah perca pemain telah beres bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_227,getah perca pemain telah beres dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_228,getah perca pemain telah siap bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_229,getah perca pemain telah siap dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_230,getah perca pemain sudah beres bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_231,getah perca pemain sudah beres dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_232,getah perca pemain sudah siap bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_233,getah perca pemain sudah siap dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_234,para aktor telah beres bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_235,para aktor telah beres dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_236,para aktor telah siap bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_237,para aktor telah siap dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_238,para aktor sudah beres bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_239,para aktor sudah beres dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_240,para aktor sudah siap bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_241,para aktor sudah siap dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_242,para pemain telah beres bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_243,para pemain telah beres dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_244,para pemain telah siap bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_245,para pemain telah siap dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_246,para pemain sudah beres bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_247,para pemain sudah beres dan berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_248,para pemain sudah siap bersama berada pada posisi di lapangan,0.0,0.0,0.0,1.0
+siswa_249,"asal adegan pertama, asal adegan kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_250,"asal adegan pertama, asal babak kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_251,"asal adegan pertama, awal adegan kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_252,"asal adegan pertama, awal babak kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_253,"asal babak pertama, asal adegan kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_254,"asal babak pertama, asal babak kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_255,"asal babak pertama, awal adegan kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_256,"asal babak pertama, awal babak kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_257,"awal adegan pertama, asal adegan kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_258,"awal adegan pertama, asal babak kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_259,"awal adegan pertama, awal adegan kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_260,"awal adegan pertama, awal babak kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_261,"awal babak pertama, asal adegan kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_262,"awal babak pertama, asal babak kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_263,"awal babak pertama, awal adegan kedua, setelah dilakukannya penalti.",40.0,35.0,50.0,41.666666666666664
+siswa_264,"-biasnya hakim melaksanakan kir cak  ala jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_265,"-biasnya hakim melaksanakan kir pada jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_266,"-biasnya hakim melaksanakan pengecekan cak  ala jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_267,"-biasnya hakim melaksanakan pengecekan pada jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_268,"-biasnya hakim melakukan kir cak  ala jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_269,"-biasnya hakim melakukan kir pada jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_270,"-biasnya hakim melakukan pengecekan cak  ala jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_271,"-biasnya hakim melakukan pengecekan pada jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_272,"-biasnya wasit melaksanakan kir cak  ala jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_273,"-biasnya wasit melaksanakan kir pada jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_274,"-biasnya wasit melaksanakan pengecekan cak  ala jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_275,"-biasnya wasit melaksanakan pengecekan pada jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_276,"-biasnya wasit melakukan kir cak  ala jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_277,"-biasnya wasit melakukan kir pada jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_278,"-biasnya wasit melakukan pengecekan cak  ala jaring gawang, kelengkapan pemain dan status pemain kedua tim. -mengecek kondisi lapangan apakah layak untuk melakukan kickoff.",0.0,0.0,0.0,1.0
+siswa_279,festival telah beres bersama bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_280,festival telah beres bersama akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_281,festival telah beres dan bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_282,festival telah beres dan akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_283,festival telah siap bersama bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_284,festival telah siap bersama akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_285,festival telah siap dan bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_286,festival telah siap dan akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_287,festival sudah beres bersama bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_288,festival sudah beres bersama akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_289,festival sudah beres dan bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_290,festival sudah beres dan akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_291,festival sudah siap bersama bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_292,festival sudah siap bersama akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_293,festival sudah siap dan bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_294,festival sudah siap dan akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_295,pertandingan telah beres bersama bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_296,pertandingan telah beres bersama akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_297,pertandingan telah beres dan bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_298,pertandingan telah beres dan akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_299,pertandingan telah siap bersama bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_300,pertandingan telah siap bersama akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_301,pertandingan telah siap dan bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_302,pertandingan telah siap dan akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_303,pertandingan sudah beres bersama bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_304,pertandingan sudah beres bersama akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_305,pertandingan sudah beres dan bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_306,pertandingan sudah beres dan akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_307,pertandingan sudah siap bersama bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_308,pertandingan sudah siap bersama akan dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_309,pertandingan sudah siap dan bakal dimulainya pertandingan,30.0,25.0,25.0,26.666666666666668
+siswa_310,- abah-abah festival telah dinyatakan siap. - terdapat 2 tim yang bertanding dalam 2 x 45 menit - cuaca mendukung jalannya pertandingan.,10.0,15.0,10.0,11.666666666666666
+siswa_311,- abah-abah festival sudah dinyatakan siap. - terdapat 2 tim yang bertanding dalam 2 x 45 menit - cuaca mendukung jalannya pertandingan.,10.0,15.0,10.0,11.666666666666666
+siswa_312,- abah-abah pertandingan telah dinyatakan siap. - terdapat 2 tim yang bertanding dalam 2 x 45 menit - cuaca mendukung jalannya pertandingan.,10.0,15.0,10.0,11.666666666666666
+siswa_313,- abah-abah pertandingan sudah dinyatakan siap. - terdapat 2 tim yang bertanding dalam 2 x 45 menit - cuaca mendukung jalannya pertandingan.,10.0,15.0,10.0,11.666666666666666
+siswa_314,- perangkat festival telah dinyatakan siap. - terdapat 2 tim yang bertanding dalam 2 x 45 menit - cuaca mendukung jalannya pertandingan.,10.0,15.0,10.0,11.666666666666666
+siswa_315,- perangkat festival sudah dinyatakan siap. - terdapat 2 tim yang bertanding dalam 2 x 45 menit - cuaca mendukung jalannya pertandingan.,10.0,15.0,10.0,11.666666666666666
+siswa_316,- perangkat pertandingan telah dinyatakan siap. - terdapat 2 tim yang bertanding dalam 2 x 45 menit - cuaca mendukung jalannya pertandingan.,10.0,15.0,10.0,11.666666666666666
+siswa_317,- kedua baluwarti telah beres - pelatih dan officialnya sudah siap - lapangan sudah siap dan tidak ada masalah,0.0,30.0,0.0,10.0
+siswa_318,- kedua baluwarti telah siap - pelatih dan officialnya sudah siap - lapangan sudah siap dan tidak ada masalah,0.0,30.0,0.0,10.0
+siswa_319,- kedua baluwarti sudah beres - pelatih dan officialnya sudah siap - lapangan sudah siap dan tidak ada masalah,0.0,30.0,0.0,10.0
+siswa_320,- kedua baluwarti sudah siap - pelatih dan officialnya sudah siap - lapangan sudah siap dan tidak ada masalah,0.0,30.0,0.0,10.0
+siswa_321,- kedua kubu telah beres - pelatih dan officialnya sudah siap - lapangan sudah siap dan tidak ada masalah,0.0,30.0,0.0,10.0
+siswa_322,- kedua kubu telah siap - pelatih dan officialnya sudah siap - lapangan sudah siap dan tidak ada masalah,0.0,30.0,0.0,10.0
+siswa_323,- kedua kubu sudah beres - pelatih dan officialnya sudah siap - lapangan sudah siap dan tidak ada masalah,0.0,30.0,0.0,10.0
+siswa_324,- Memulai adegan mula-mula - Memulai babak kedua - apabila terjadi water break - apabila terjadi goal,70.0,75.0,75.0,73.33333333333333
+siswa_325,- Memulai adegan pertama - Memulai babak kedua - apabila terjadi water break - apabila terjadi goal,70.0,75.0,75.0,73.33333333333333
+siswa_326,- Memulai babak mula-mula - Memulai babak kedua - apabila terjadi water break - apabila terjadi goal,70.0,75.0,75.0,73.33333333333333
+siswa_327,KICK OFF: Tendangan nan dilakukan untuk memulai babak pertama/kedua dalam suatu pertandingan,40.0,30.0,50.0,40.0
+siswa_328,Kick off ialah cara analitis memulai suatu permainan dan akan dilakukan bila terjadi hal berikut Memulai pertandingan Terjadinya sebuah gol Memulai babak yang kedua Memulai babak extra time,70.0,80.0,75.0,75.0
+siswa_329,Kick off ialah cara dalam memulai suatu permainan dan akan dilakukan bila terjadi hal berikut Memulai pertandingan Terjadinya sebuah gol Memulai babak yang kedua Memulai babak extra time,70.0,80.0,75.0,75.0
+siswa_330,Kick off ialah teknik analitis memulai suatu permainan dan akan dilakukan bila terjadi hal berikut Memulai pertandingan Terjadinya sebuah gol Memulai babak yang kedua Memulai babak extra time,70.0,80.0,75.0,75.0
+siswa_331,Kick off ialah teknik dalam memulai suatu permainan dan akan dilakukan bila terjadi hal berikut Memulai pertandingan Terjadinya sebuah gol Memulai babak yang kedua Memulai babak extra time,70.0,80.0,75.0,75.0
+siswa_332,Kick off adalah cara analitis memulai suatu permainan dan akan dilakukan bila terjadi hal berikut Memulai pertandingan Terjadinya sebuah gol Memulai babak yang kedua Memulai babak extra time,70.0,80.0,75.0,75.0
+siswa_333,Kick off adalah cara dalam memulai suatu permainan dan akan dilakukan bila terjadi hal berikut Memulai pertandingan Terjadinya sebuah gol Memulai babak yang kedua Memulai babak extra time,70.0,80.0,75.0,75.0
+siswa_334,Kick off adalah teknik analitis memulai suatu permainan dan akan dilakukan bila terjadi hal berikut Memulai pertandingan Terjadinya sebuah gol Memulai babak yang kedua Memulai babak extra time,70.0,80.0,75.0,75.0
+siswa_335,-menunggu pelesit -melakukan depakan mula-mula -mengumpan bola ke belakang setelah peluit,20.0,20.0,25.0,21.666666666666668
+siswa_336,-menunggu pelesit -melakukan depakan pertama -mengumpan bola ke belakang setelah peluit,20.0,20.0,25.0,21.666666666666668
+siswa_337,-menunggu pelesit -melakukan tendangan mula-mula -mengumpan bola ke belakang setelah peluit,20.0,20.0,25.0,21.666666666666668
+siswa_338,-menunggu pelesit -melakukan tendangan pertama -mengumpan bola ke belakang setelah peluit,20.0,20.0,25.0,21.666666666666668
+siswa_339,-menunggu peluit -melakukan depakan mula-mula -mengumpan bola ke belakang setelah peluit,20.0,20.0,25.0,21.666666666666668
+siswa_340,-menunggu peluit -melakukan depakan pertama -mengumpan bola ke belakang setelah peluit,20.0,20.0,25.0,21.666666666666668
+siswa_341,-menunggu peluit -melakukan tendangan mula-mula -mengumpan bola ke belakang setelah peluit,20.0,20.0,25.0,21.666666666666668
+siswa_342,Kick off angsal dilakukan analitis kondisi berikut: - Memulai pertandingan - Terjadinya gol - Memulai babak kedua - Memulai babak perpanjangan waktu,90.0,90.0,90.0,90.0
+siswa_343,Kick off angsal dilakukan dalam kondisi berikut: - Memulai pertandingan - Terjadinya gol - Memulai babak kedua - Memulai babak perpanjangan waktu,90.0,90.0,90.0,90.0
+siswa_344,Kick off dapat dilakukan analitis kondisi berikut: - Memulai pertandingan - Terjadinya gol - Memulai babak kedua - Memulai babak perpanjangan waktu,90.0,90.0,90.0,90.0
+siswa_345,- asal mainan adegan mula-mula - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_346,- asal mainan adegan pertama - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_347,- asal mainan babak mula-mula - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_348,- asal mainan babak pertama - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_349,- asal permainan adegan mula-mula - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_350,- asal permainan adegan pertama - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_351,- asal permainan babak mula-mula - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_352,- asal permainan babak pertama - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_353,- awal mainan adegan mula-mula - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_354,- awal mainan adegan pertama - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_355,- awal mainan babak mula-mula - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_356,- awal mainan babak pertama - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_357,- awal permainan adegan mula-mula - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_358,- awal permainan adegan pertama - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_359,- awal permainan babak mula-mula - bola Masuk ke gawang - dimulainya babak kedua,50.0,55.0,50.0,51.666666666666664
+siswa_360,lapanga nan akseptabel alat penerangan nan cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_361,lapanga nan akseptabel alat penerangan yang cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_362,lapanga nan akseptabel lampu nan cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_363,lapanga nan akseptabel lampu yang cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_364,lapanga nan memadai alat penerangan nan cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_365,lapanga nan memadai alat penerangan yang cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_366,lapanga nan memadai lampu nan cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_367,lapanga nan memadai lampu yang cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_368,lapanga yang akseptabel alat penerangan nan cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_369,lapanga yang akseptabel alat penerangan yang cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_370,lapanga yang akseptabel lampu nan cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_371,lapanga yang akseptabel lampu yang cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_372,lapanga yang memadai alat penerangan nan cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_373,lapanga yang memadai alat penerangan yang cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_374,lapanga yang memadai lampu nan cukup kursi penonton,0.0,0.0,0.0,1.0
+siswa_375,-lapangan nan akseptabel -lampu nan cukup -kursi penonton,0.0,0.0,0.0,1.0
+siswa_376,-lapangan nan akseptabel -lampu yang cukup -kursi penonton,0.0,0.0,0.0,1.0
+siswa_377,-lapangan nan memadai -lampu nan cukup -kursi penonton,0.0,0.0,0.0,1.0
+siswa_378,-lapangan nan memadai -lampu yang cukup -kursi penonton,0.0,0.0,0.0,1.0
+siswa_379,-lapangan yang akseptabel -lampu nan cukup -kursi penonton,0.0,0.0,0.0,1.0
+siswa_380,-lapangan yang akseptabel -lampu yang cukup -kursi penonton,0.0,0.0,0.0,1.0
+siswa_381,-lapangan yang memadai -lampu nan cukup -kursi penonton,0.0,0.0,0.0,1.0
+siswa_382,"sarwa aktor alias team telah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_383,"sarwa aktor alias team sudah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_384,"sarwa aktor atau team telah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_385,"sarwa aktor atau team sudah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_386,"sarwa pemain alias team telah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_387,"sarwa pemain alias team sudah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_388,"sarwa pemain atau team telah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_389,"sarwa pemain atau team sudah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_390,"semua aktor alias team telah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_391,"semua aktor alias team sudah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_392,"semua aktor atau team telah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_393,"semua aktor atau team sudah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_394,"semua pemain alias team telah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_395,"semua pemain alias team sudah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_396,"semua pemain atau team telah siap melakukan pertandingan, tidak ada kendala di dalam stadion, wasit meniup pluit tanda kick off",10.0,10.0,10.0,10.0
+siswa_397,"detik mula-mula darab dimulai, bersama babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_398,"detik mula-mula darab dimulai, dan babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_399,"detik mula-mula kali dimulai, bersama babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_400,"detik mula-mula kali dimulai, dan babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_401,"detik pertama darab dimulai, bersama babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_402,"detik pertama darab dimulai, dan babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_403,"detik pertama kali dimulai, bersama babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_404,"detik pertama kali dimulai, dan babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_405,"saat mula-mula darab dimulai, bersama babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_406,"saat mula-mula darab dimulai, dan babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_407,"saat mula-mula kali dimulai, bersama babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_408,"saat mula-mula kali dimulai, dan babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_409,"saat pertama darab dimulai, bersama babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_410,"saat pertama darab dimulai, dan babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_411,"saat pertama kali dimulai, bersama babak ke 2",20.0,25.0,25.0,23.333333333333332
+siswa_412,"Pemain telah siap, hal gelanggang aman, wasit dan hakim garis sudah siap.",0.0,0.0,0.0,1.0
+siswa_413,"Pemain telah siap, hal stadion aman, wasit dan hakim garis sudah siap.",0.0,0.0,0.0,1.0
+siswa_414,"Pemain telah siap, kondisi gelanggang aman, wasit dan hakim garis sudah siap.",0.0,0.0,0.0,1.0
+siswa_415,"Pemain telah siap, kondisi stadion aman, wasit dan hakim garis sudah siap.",0.0,0.0,0.0,1.0
+siswa_416,"Pemain sudah siap, hal gelanggang aman, wasit dan hakim garis sudah siap.",0.0,0.0,0.0,1.0
+siswa_417,"Pemain sudah siap, hal stadion aman, wasit dan hakim garis sudah siap.",0.0,0.0,0.0,1.0
+siswa_418,"Pemain sudah siap, kondisi gelanggang aman, wasit dan hakim garis sudah siap.",0.0,0.0,0.0,1.0
+siswa_419,"kedua awak sudah beres dalam lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_420,"kedua awak sudah beres di lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_421,"kedua awak sudah siap dalam lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_422,"kedua awak sudah siap di lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_423,"kedua awak telah beres dalam lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_424,"kedua awak telah beres di lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_425,"kedua awak telah siap dalam lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_426,"kedua awak telah siap di lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_427,"kedua tim sudah beres dalam lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_428,"kedua tim sudah beres di lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_429,"kedua tim sudah siap dalam lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_430,"kedua tim sudah siap di lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_431,"kedua tim telah beres dalam lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_432,"kedua tim telah beres di lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_433,"kedua tim telah siap dalam lapangan, tidak adanya suporter yang masuk kedalam lapangan, sistem keamanan memadai",0.0,0.0,0.0,1.0
+siswa_434,beres kondisi -syarat terkabul ada pemain,0.0,0.0,0.0,1.0
+siswa_435,beres kondisi -syarat terkabul terdapat pemain,0.0,0.0,0.0,1.0
+siswa_436,beres kondisi -syarat terpenuhi ada pemain,0.0,0.0,0.0,1.0
+siswa_437,beres kondisi -syarat terpenuhi terdapat pemain,0.0,0.0,0.0,1.0
+siswa_438,beres syarat -syarat terkabul ada pemain,0.0,0.0,0.0,1.0
+siswa_439,beres syarat -syarat terkabul terdapat pemain,0.0,0.0,0.0,1.0
+siswa_440,beres syarat -syarat terpenuhi ada pemain,0.0,0.0,0.0,1.0
+siswa_441,beres syarat -syarat terpenuhi terdapat pemain,0.0,0.0,0.0,1.0
+siswa_442,siap kondisi -syarat terkabul ada pemain,0.0,0.0,0.0,1.0
+siswa_443,siap kondisi -syarat terkabul terdapat pemain,0.0,0.0,0.0,1.0
+siswa_444,siap kondisi -syarat terpenuhi ada pemain,0.0,0.0,0.0,1.0
+siswa_445,siap kondisi -syarat terpenuhi terdapat pemain,0.0,0.0,0.0,1.0
+siswa_446,siap syarat -syarat terkabul ada pemain,0.0,0.0,0.0,1.0
+siswa_447,siap syarat -syarat terkabul terdapat pemain,0.0,0.0,0.0,1.0
+siswa_448,siap syarat -syarat terpenuhi ada pemain,0.0,0.0,0.0,1.0
+siswa_449,- bal kudu dalam depak ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_450,- bal kudu dalam tendang ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_451,- bal kudu di depak ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_452,- bal kudu di tendang ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_453,- bal harus dalam depak ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_454,- bal harus dalam tendang ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_455,- bal harus di depak ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_456,- bal harus di tendang ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_457,- bola kudu dalam depak ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_458,- bola kudu dalam tendang ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_459,- bola kudu di depak ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_460,- bola kudu di tendang ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_461,- bola harus dalam depak ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_462,- bola harus dalam tendang ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_463,- bola harus di depak ke spot musuh - fair play - ada wasit,8.0,5.0,10.0,7.666666666666667
+siswa_464,aktor nan bersarang lapangan. wasit. serta perwakilan pengawas pertandingan dari asosiasi sepakbola yang ada di negara nya,0.0,0.0,0.0,1.0
+siswa_465,aktor nan masuk lapangan. wasit. serta perwakilan pengawas pertandingan dari asosiasi sepakbola yang ada di negara nya,0.0,0.0,0.0,1.0
+siswa_466,aktor yang bersarang lapangan. wasit. serta perwakilan pengawas pertandingan dari asosiasi sepakbola yang ada di negara nya,0.0,0.0,0.0,1.0
+siswa_467,aktor yang masuk lapangan. wasit. serta perwakilan pengawas pertandingan dari asosiasi sepakbola yang ada di negara nya,0.0,0.0,0.0,1.0
+siswa_468,pemain nan bersarang lapangan. wasit. serta perwakilan pengawas pertandingan dari asosiasi sepakbola yang ada di negara nya,0.0,0.0,0.0,1.0
+siswa_469,pemain nan masuk lapangan. wasit. serta perwakilan pengawas pertandingan dari asosiasi sepakbola yang ada di negara nya,0.0,0.0,0.0,1.0
+siswa_470,pemain yang bersarang lapangan. wasit. serta perwakilan pengawas pertandingan dari asosiasi sepakbola yang ada di negara nya,0.0,0.0,0.0,1.0
+siswa_471,"aktor lengkap, hakim ada, abah-abah siap",0.0,0.0,0.0,1.0
+siswa_472,"aktor lengkap, hakim ada, perlengkapan siap",0.0,0.0,0.0,1.0
+siswa_473,"aktor lengkap, wasit ada, abah-abah siap",0.0,0.0,0.0,1.0
+siswa_474,"aktor lengkap, wasit ada, perlengkapan siap",0.0,0.0,0.0,1.0
+siswa_475,"pemain lengkap, hakim ada, abah-abah siap",0.0,0.0,0.0,1.0
+siswa_476,"pemain lengkap, hakim ada, perlengkapan siap",0.0,0.0,0.0,1.0
+siswa_477,"pemain lengkap, wasit ada, abah-abah siap",0.0,0.0,0.0,1.0
+siswa_478,"Lapangan Sepak Bola, cara penggunaan, jumlah pemain.",5.0,0.0,0.0,1.6666666666666667
+siswa_479,1. pengingkaran 2. offside 3. memperoleh kartu,0.0,0.0,0.0,1.0

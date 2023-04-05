@@ -1,0 +1,53 @@
+Jawaban Tanpa Negasi Not Token,Manual 1,Manual 2,Manual 3,Rata Manual
+topologi stasiun host node dihubungkan beberpa jenis topologi jaringan lan terapkan pointtopoint bus multipoint ring star tree,45.0,40.0,50.0,45.0
+pengertian topologi jaringan hubungan komputer bangun berdasarkan kegunaan keterbatasan resource keterbatasan biaya topologitopologi jaringan disesuaikan lapangan contoh topologi bus star token ring tree,35.0,50.0,50.0,45.0
+topologi jaringan komputer topologi bustopologi ring topologi star,40.0,45.0,50.0,45.0
+lan local are network menghubungkan komputer komputer wilayah jaringan 1 topologi bus 2 topologi star 3 topologi tree,50.0,70.0,50.0,56.666666666666664
+jaringan kabel,8.0,15.0,10.0,11.0
+topologi ring komputer hubungkan komputer komputer membentuk lingkaran ring topologi berkomunikasi data token mengontrol hak akses komputer menerima data komputer 1 mengirim file komputer 4 data melewati komputer 2 3 terima komputer 4,28.0,45.0,25.0,32.666666666666664
+topologi jaringan lan stasiun host dihubungkan contohnya topologi point to point topologi bus topologi star topologi ring,40.0,50.0,50.0,46.666666666666664
+topologi pointtopoint stasiun host dihubungkan langsung host host kedudukan lan tergantung salah host dasarnya hubungan stasiun stasiun bersangkutan topologi bus multipoint lan jaringan broadcast informasi dikirimkan medium transmisi stasiun tersambung medium stasiun dihubungkan medium kabel serat optik gelombang elektromaknetik interface node disambungkan medium tiaptiap node memeriksa address informasi dikirimkan menentukan penerimanya lan tergantung salah node kendalinya tersebar distributed keuntungan node dikurangi mengganggu operasi kerugiannya tingkat lalulintas kongesti contoh terkenal ethernet topologi ring node dihubungkan bentuk lingkaran ring informasi berjalan saluran transmisi searah unidirectional data beredar lingkaran informasi berjalan node node informasi disalurkan bentuk paket paket mengandung alamat sumber tujuan paket diterima stasiun diperiksa alamatnya bilamana untuknya paket stasiun tujuan paket beredar sumber dikeluarkan peredaran paket dibuang menghindari beredarnya batas ring paket dibuang stasiun dituju pembuangan paket sumber disukai konfirmasi otomatis node lan bergantungan node terganggu lan terganggu teknik mengatasi melepaskan node lan menggantikannya node berdekatan teknik peralatan rumit node ring repeater transceiver tugas lan topologi keuntungan data rate melayani lintas intensitasnya sambungan point to point transmission error diperkecil kerugian topologi sukar menambah mengurangi node kerusakan media transmisi menghentikan operasi media transmisi dipakai twisted pair kabel koaksial serat optik topologi star stasiun tersambung jaringan langsung berhubungan stasiun menyalurkannya pusat stasiun pusat seringkali switch jalur komunikasi tersambung titik pusat topologi tree node kedudukan node kedudukannya menguasai node dibawahnya jaringan tergantung node node kedudukannya tertinggi hierachical topology kedudukan node peer topology,30.0,55.0,50.0,45.0
+topologi ring topologi ring komputer hubungkan komputer komputer membentuk lingkaran ring topologi berkomunikasi data token mengontrol hak akses komputer menerima data komputer 1 mengirim file komputer 4 data melewati komputer 2 3 terima komputer 4 komputer melanjutkan pengiriman data dituju ip address topologi jaringan komputer kelebihan topologi jaringan komputer ring kemudahan proses pemasangan instalasi penggunaan kabel lan menghemat biaya kekurangan fatal topologi salah komputer kabel nya bermasalah pengiriman data terganggu error,30.0,45.0,50.0,41.666666666666664
+topologi jaringan bentuk struktur jaringan menghubungkan komputer media kabel nirkabel 1 topologi bus 2 topologi star 3 topologi tree,40.0,65.0,50.0,51.666666666666664
+topologi jaringan komputer konsep menghubungkan komputer jaringan terkoneksi contoh topologi star topologin bus topologi mesh topologi tree,45.0,60.0,50.0,51.666666666666664
+tipologi starbustreering,30.0,25.0,25.0,26.666666666666668
+jaringan kabel ftp utp topologi star topologi bus topologi tree,38.0,50.0,50.0,46.0
+lan local area network 1 topologi bus 2 topologi star 3 topologi ring,48.0,50.0,50.0,49.333333333333336
+jaringan mencakut area gedung rumah pabrik,20.0,15.0,25.0,20.0
+jaringan local area network jaringan gedung,27.0,20.0,25.0,24.0
+topologi konsep menghubungkan komputer jaringan terkoneksi topologi star topolog mesh topologi ring,48.0,55.0,50.0,51.0
+topologi point to point topologi busmultipoint topologi ring topologi star topologi tree,33.0,30.0,25.0,29.333333333333332
+pengertian topologi jaringan komputer konsep menghubungkan komputer jaringan terkoneksi topologi ring topologi bus topologi star,45.0,60.0,50.0,51.666666666666664
+jaringan kabel,15.0,15.0,25.0,18.333333333333332
+pengertian topologi jaringan komputer konsep menghubungkan komputer jaringan terkoneksi contohnya topologi star topologi bus topologi tree,50.0,65.0,50.0,55.0
+topologi jaringan lan local area network topologi jaringan bertingkat contoh topologi bus topologi ring topologi star,60.0,45.0,50.0,51.666666666666664
+lan local area network node terhubung memanfaatkan jenis topologi contohnya point to point bus ring,48.0,50.0,50.0,49.333333333333336
+topologi star gemini sagitarius,10.0,5.0,10.0,8.333333333333334
+topologi lan topologi desain jaringan contohnya topologi mesh topologi tree topologi star topologi bus,44.0,45.0,50.0,46.333333333333336
+topologi lan topologi jaringan komputer media kabel jalur transmisinya,20.0,30.0,25.0,25.0
+topologi lan topologi jaringan komputer media kabel jalur transmisinya contoh star bus ring mesh hybird,40.0,45.0,50.0,45.0
+topoligi lan topologi jaringan local local area network topologi network rumah kos warung kopi dll contoh topologi star mesh tree bus ring,50.0,65.0,50.0,55.0
+lan jaringan lokal penghubung pc skala jangkauan contoh topologi ring bus star,30.0,50.0,50.0,43.333333333333336
+topologi jaringan konsep menghubungkan lokal komputer komputer contoh topologi bus topologi ring topologi star,40.0,55.0,50.0,48.333333333333336
+baper,0.0,0.0,0.0,1.0
+,0.0,0.0,0.0,1.0
+lan local area network topologi jaringan memiliki lingkup lokal contoh star bus tree,48.0,50.0,50.0,49.333333333333336
+lan network jaringan sistem komputer lokasinya terbatas didalam gedung kompleks gedung kampus media fasilitas komunikasi telepon pemilik pengelola media komunikasinya pemilik lan,28.0,30.0,25.0,27.666666666666668
+lan local area network bus ring star mesh,45.0,35.0,50.0,43.333333333333336
+lan local area network bus ring mesh star,45.0,35.0,50.0,43.333333333333336
+pengertian topologi jaringan hubungan komputer bangun berdasarkan kegunaan keterbatasan resource keterbatasan biaya topologitopologi jaringan disesuaikan lapangan topologi jaringan bentuk topologi bus topologi cincin topologi token ring topologi bintang topologi pohon tree,50.0,65.0,50.0,55.0
+pengertian topologi jaringan hubungan komputer bangun berdasarkan kegunaan keterbatasan resource keterbatasan biaya topologitopologi jaringan disesuaikan lapangan topologi bus topologi cincin topologi token ring topologi bintang topologi pohon tree,50.0,65.0,50.0,55.0
+topologi stasiun host node dihubungkan topologi pointtopoint topologi bus multipoint topologi ring,65.0,55.0,50.0,56.666666666666664
+local area network star ring smesh,35.0,30.0,25.0,30.0
+local area network utp udp telnet,20.0,20.0,25.0,21.666666666666668
+topologi jaringan lan local area network areal lokal jaringan contohnya utp udp telnet ssh,30.0,25.0,25.0,26.666666666666668
+lan local area network contoh utpudptelnet ssh,28.0,25.0,25.0,26.0
+konsep menghubungkan komputer jaringan terkoneksi topologi bus topologi star topologi tree topoplogi mesh,48.0,40.0,50.0,46.0
+hubungan komputer bangun berdasarkan kegunaan contoh topologi bus topologi cincin topologin ring,40.0,35.0,50.0,41.666666666666664
+jaringan lan lokal area network namanya jaringan komputer berbasis lan terbatas area lokal contoh topologi topologi bus topologi star topologi ring,60.0,65.0,50.0,58.333333333333336
+susunan jaringan lan contohnya topologi bus topologi star topologi ring,50.0,60.0,50.0,53.333333333333336
+topologi jaringan lan model topologi pengaturan kabel lan contoh ring bus tree,37.0,35.0,25.0,32.333333333333336
+lan jaringan komputer jaringannya mencakup wilayah jaringan komputer kampus gedung kantor rumah sekolah kebanyakan lan berbasis teknologi ieee 8023 ethernet perangkat switch kecepatan transfer data 10 100 1000 mbits topologi star topologi mesh topologi hirarki,38.0,55.0,50.0,47.666666666666664
+hubungan komputer bangun berdasarkan kegunaan keterbatasan resource keterbatasan biaya topologitopologi jaringan disesuaikan lapangan star bus cincin,40.0,56.0,50.0,48.666666666666664
+topologi lan,10.0,5.0,10.0,8.333333333333334
+lan koneksi komputer server menggunkana kabel topologi star topologi ring topologi bus,30.0,35.0,25.0,30.0
